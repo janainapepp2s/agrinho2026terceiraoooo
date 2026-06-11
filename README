@@ -1,0 +1,27 @@
+1. Estruturando o Projeto no VS Code
+Abra o VS Code.
+
+Clique em File > Open Folder e crie uma nova pasta chamada site-agro-forte.
+
+Dentro dessa pasta, crie dois arquivos:
+
+index.html (para a estrutura do site)
+
+style.css (para o visual/design)
+
+2. O Código HTML (index.html)
+Cole o código abaixo no seu arquivo
+3. O Estilo CSS (style.css)
+Cole o código abaixo no seu arquivo style.css para deixar o site com um visual moderno, usando tons de verde e terra.
+4. Como ver o site funcionando?
+Para abrir o site direto no navegador através do VS Code:
+
+No menu lateral esquerdo do VS Code, clique no ícone de Extensions (Quadrados empilhados) ou aperte Ctrl + Shift + X.
+
+Procure por Live Server (do criador Ritwick Dey) e clique em Install.
+
+Depois de instalado, abra o seu arquivo index.html.
+
+No canto inferior direito do VS Code, clique no botão Go Live que apareceu.
+
+O seu navegador vai abrir automaticamente mostrando o site prontinho! Se quiser mudar as cores ou os textos, basta alterar nos arquivos e salvar (Ctrl + S).
