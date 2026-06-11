@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agro Forte - O Futuro da Terra</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">Agro<span>Forte</span></div>
+        <nav>
+            <a href="#inicio">Início</a>
+            <a href="#sobre">Sobre</a>
+            <a href="#pilares">Pilares</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>A força que alimenta o mundo</h1>
+            <p>Inovação, tecnologia e sustentabilidade transformando o agronegócio todos os dias.</p>
+            <a href="#sobre" class="btn">Saiba Mais</a>
+        </div>
+    </section>
+
+    <section id="sobre" class="container">
+        <h2>O que é o Agro Forte?</h2>
+        <p>O Agro Forte representa a união entre a tradição do campo e a modernidade da tecnologia. Nosso objetivo é destacar a importância da produção agrícola e da pecuária como motores fundamentais da economia e do sustento global.</p>
+    </section>
+
+    <section id="pilares" class="features">
+        <div class="card">
+            <h3>🌱 Tecnologia</h3>
+            <p>Uso de drones, sensores e maquinários de última geração para otimizar a colheita.</p>
+        </div>
+        <div class="card">
+            <h3>💧 Sustentabilidade</h3>
+            <p>Práticas conscientes que preservam o solo, a água e o meio ambiente para o futuro.</p>
+        </div>
+        <div class="card">
+            <h3>🚜 Produtividade</h3>
+            <p>Gestão eficiente para garantir alimentos de qualidade na mesa de milhões de pessoas.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Agro Forte. Desenvolvido com orgulho pelo Agro.</p>
+    </footer>
+
+</body>
+</html>
